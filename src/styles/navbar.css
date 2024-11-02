@@ -1,0 +1,26 @@
+
+nav {
+    align-content: center;
+    text-align: right;
+    overflow: hidden;
+    
+    
+   
+  
+  }
+  
+  nav > a {
+    text-decoration: underline;
+    color: rgb(21, 28, 12);
+    font-size: large;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0.5em;
+    
+  }
+  
+  nav > a:hover {
+    color: darkgreen;
+  }
+  
