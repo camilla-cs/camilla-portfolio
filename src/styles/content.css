@@ -1,0 +1,15 @@
+
+.content {
+    position: relative;
+    z-index: 1; 
+    color: #19241f;
+    background-color: #faedcd;
+    border-radius: 2em;
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 4%;
+    padding: 1em;
+  }
+  
