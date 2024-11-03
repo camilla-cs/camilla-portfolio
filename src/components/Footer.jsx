@@ -1,13 +1,13 @@
 import React from "react";
+import "../styles/footer.css";
 
 function Footer () {
     return (
-
-
-    <footer>
-        <h5>&copy; Made with 🍵 by Camilla</h5>
-    </footer>
-
+       
+        <div>
+            <h5>&copy; Made with 🍵 by Camilla</h5>
+        </div>
+        
     )
 }
 
