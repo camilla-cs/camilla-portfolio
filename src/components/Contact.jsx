@@ -1,14 +1,17 @@
 import React from "react";
+import "../styles/contact.css";
+
 
 function Contact (){
     return (
         <div class="content"> 
             <h1>Contact 📮 </h1> 
             
-            <p>You can contact me at the following e-mail:  
-                <button onclick="window.open ('mailto:deprettocamilla@gmail.com','_blank')" class="email">deprettocamilla@gmail.com</button>
+            <p>You can contact me at the following e-mail: {""}
+                <a class="email" href="mailto:deprettocamilla@gmail.com">deprettocamilla@gmail.com</a>  
             </p>
-
+           
+            
 
             
             <h4><strong>Other: </strong> </h4>

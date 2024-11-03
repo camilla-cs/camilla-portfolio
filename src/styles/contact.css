@@ -29,7 +29,7 @@
     color:#d6943a ;
 }
 
-p > button {
+.email {
     text-decoration: none;
     border: none;
     text-align: center;
@@ -44,7 +44,7 @@ p > button {
     font-style: normal;
 }
 
-p > button:hover {
+.email:hover {
     background-color: #7c9aaa;
 }
 
