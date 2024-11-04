@@ -9,7 +9,7 @@ function Introduction () {
             <p>software developer based in Sydney </p>
 
             <div class="button">
-                <a href="./projects.html">check out my work!</a>
+                <a href="https://github.com/camilla-cs#hi--im-camilla">check out my work!</a>
             </div>
         </div>
          
