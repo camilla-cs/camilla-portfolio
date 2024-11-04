@@ -3,10 +3,10 @@ import React from "react";
 function Projects () {
     
    return (
-    <div class="content">
+    <div className="content">
         <h1>Projects 🌱 </h1> 
         
-        <div class="links-container">
+        <div className="links-container">
             <li> <a href="https://github.com/camilla-cs/T1A2portfolioassignment"><strong> Portfolio T1A2</strong></a></li>
             <p>First assignment for Coder Academy Febraury 2024 cohort using HTML and CSS that would aim to showcase personal information, skills and intersts and to demonstrate professional knowledge in the form of a portfolio.</p>
             

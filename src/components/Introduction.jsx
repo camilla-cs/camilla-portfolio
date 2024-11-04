@@ -1,14 +1,29 @@
 import React from "react";
+import {TypeAnimation} from "react-type-animation"; 
+
+import "../styles/animation.css";
 
 
 function Introduction () {
     return (
-        <div class="content">
-            <h1>Hello 👋🏻 I'm Camilla</h1> 
-        
-            <p>software developer based in Sydney </p>
+        <div className="content">
+            <h1>Hello <span className="wave">👋🏻</span> I'm Camilla</h1> 
 
-            <div class="button">
+            <h4>{""}
+                <TypeAnimation 
+                    sequence={[
+                        "Software Developer based in Sydney.",
+                        
+                      ]}
+                      wrapper="span"
+                      speed={40}
+                      repeat={0}
+                    />
+            </h4>
+        
+           
+
+            <div className="button">
                 <a href="https://github.com/camilla-cs#hi--im-camilla">check out my work!</a>
             </div>
         </div>

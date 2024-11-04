@@ -8,7 +8,7 @@ import { Button } from "@react-email/button";
 
 function Content () {
     return (
-       <div class="content">
+       <div className="content">
         <Navbar/>
         <Introduction/>
         <Projects/>
