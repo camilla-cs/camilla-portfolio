@@ -12,7 +12,13 @@ function Introduction () {
             <h4>{""}
                 <TypeAnimation 
                     sequence={[
-                        "Software Developer based in Sydney.",
+                        "Software Developer based in Sydney",
+                        15_000,
+                        "Bouldering enthusiast",
+                        2000,
+                        "Matcha Lover",
+                        2000,
+                        "Software Developer based in Sydney"
                         
                       ]}
                       wrapper="span"
