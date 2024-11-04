@@ -27,7 +27,7 @@ function Projects () {
             </p>
 
             
-            <p>You can find more information about my projects on my personal <a href="https://github.com/camilla-cs"><strong>Github page</strong></a> . </p>
+            <p>You can find more information about my projects on my personal <a href="https://github.com/camilla-cs" id="github"><strong>Github page</strong></a> . </p>
         </div>
     </div>
    )

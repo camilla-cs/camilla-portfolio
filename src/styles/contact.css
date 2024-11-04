@@ -16,6 +16,14 @@
     color:#d6943a ;
 }
 
+#github  {
+    text-decoration: underline;
+    color: #202217;
+}
+
+#github:hover {
+    color:#d6943a ;
+}
 .email {
     text-decoration: none;
     border: none;
