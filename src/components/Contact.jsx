@@ -5,7 +5,7 @@ import "../styles/contact.css";
 function Contact (){
     return (
         <div className="content"> 
-            <h1>Contact 📮 </h1> 
+            <h1 id="contact">Contact 📮 </h1> 
             
             <p>You can contact me at the following e-mail: {""}
                 <a className="email" href="mailto:deprettocamilla@gmail.com">deprettocamilla@gmail.com</a>  

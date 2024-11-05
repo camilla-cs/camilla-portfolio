@@ -4,7 +4,7 @@ function Projects () {
     
    return (
     <div className="content">
-        <h1>Projects 🌱 </h1> 
+        <h1 id="projects">Projects 🌱 </h1> 
         
         <div className="links-container">
             <li> <a href="https://github.com/camilla-cs/T1A2portfolioassignment"><strong> Portfolio T1A2</strong></a></li>
