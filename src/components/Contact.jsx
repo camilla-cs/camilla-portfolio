@@ -8,7 +8,7 @@ function Contact (){
             <h1 id="contact">Contact 📮 </h1> 
             
             <p>You can contact me at the following e-mail: {""}
-                <a className="email" href="mailto:deprettocamilla@gmail.com">deprettocamilla@gmail.com</a>  
+                <a className="email" href="mailto:deprettocamilla@gmail.com" style={{display:"inline-flex"}}>deprettocamilla@gmail.com</a>  
             </p>
            
             
