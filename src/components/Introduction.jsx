@@ -13,7 +13,7 @@ function Introduction () {
                 <TypeAnimation 
                     sequence={[
                         "Software Developer based in Sydney",
-                        15_000,
+                        9000,
                         "Bouldering enthusiast",
                         2000,
                         "Matcha Lover",
