@@ -1,13 +1,11 @@
 import React from "react";
 import {TypeAnimation} from "react-type-animation"; 
 
-import "../styles/animation.css";
-
 
 function Introduction () {
     return (
         <div className="content">
-            <h1>Hello <span className="wave">👋🏻</span> I'm Camilla</h1> 
+            <h1>Hello 👋🏻 I'm Camilla</h1> 
 
             <h4>{""}
                 <TypeAnimation 
@@ -21,8 +19,8 @@ function Introduction () {
                         "Software Developer based in Sydney"
                         
                       ]}
+                      speed={30}
                       wrapper="span"
-                      speed={40}
                       repeat={0}
                     />
             </h4>
