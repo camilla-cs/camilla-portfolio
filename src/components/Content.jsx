@@ -6,6 +6,8 @@ import Projects from "./Projects";
 import Contact from "./Contact";
 import { Button } from "@react-email/button";
 
+
+
 function Content () {
     return (
        <div className="content">
@@ -14,6 +16,7 @@ function Content () {
         <Projects/>
         <Contact/>
         <Button/>
+        
 
        </div>
     )
