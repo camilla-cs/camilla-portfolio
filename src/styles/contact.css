@@ -24,19 +24,29 @@
 #github:hover {
     color:#d6943a ;
 }
+
+p {
+    margin: 0;  /* Remove any default margin */
+    padding: 0; /* Remove padding */
+    width: 100%; /* Ensure it can grow with screen size */
+}
+
 .email {
+    display: inline-flex;
+    margin:1em;
     text-decoration: none;
     border: none;
     text-align: center;
     background-color: #a5a43a;
     color: white;
-    padding: 1em 1em;
+    padding: 0.5em 1em;
     border-radius: 2.5em;
     font-size:medium;
     font-optical-sizing: auto;
     font-family: "Taviraj", serif;
     font-weight: 400;
     font-style: normal;
+    
 }
 
 .email:hover {

@@ -17,7 +17,6 @@ function Content () {
         <Contact/>
         <Button/>
         
-
        </div>
     )
 }
