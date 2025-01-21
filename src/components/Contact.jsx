@@ -21,7 +21,7 @@ function Contact (){
                     <a href="https://www.linkedin.com/in/camilla-de-pretto-815979234/">Linkedin</a>
                 </li>
                 <li> 
-                    <a href="/src/assets/resume.pdf">CV</a>
+                    <a href="/src/assets/camilladeprettoresume.pdf">CV</a>
                 </li>
                 <li>  
                     <a href="https://github.com/camilla-cs">Github</a> 

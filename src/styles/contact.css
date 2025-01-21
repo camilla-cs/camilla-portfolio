@@ -25,11 +25,6 @@
     color:#d6943a ;
 }
 
-p {
-    margin: 0;  /* Remove any default margin */
-    padding: 0; /* Remove padding */
-    width: 100%; /* Ensure it can grow with screen size */
-}
 
 .email {
     display: inline-flex;
