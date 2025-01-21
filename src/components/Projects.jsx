@@ -8,7 +8,7 @@ function Projects () {
         
         <div className="links-container">
 
-            <li><a href="https://animetrail.netlify.app/">AnimeTrail</a></li>
+            <li><a href="https://animetrail.netlify.app/"><strong>AnimeTrail</strong></a></li>
             <p>Full stack application built with React as final assignment for Coder Academy, made for retrieveing anime recommendations based on title input.</p>
             
         
