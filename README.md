@@ -1,6 +1,6 @@
 # Portfolio 
 
-This personal portfolio was built using React and Vite, and styled with CSS. 
+This [portfolio](https://camilladepretto.netlify.app/) was built using React and Vite, and styled with CSS: 
 
 ## Structure 
 
