@@ -28,9 +28,6 @@ function Projects () {
             <p>Second assignment for Coder Academy with the purpose of designin, implementing and testing a terminal application that accepts user input in the form of a file or text input and produce printed output or interact with the file system. 
                 My project was inspired by text-based adventure games and it was developed by using Python. 
             </p>
-
-            <li> <a href="https://github.com/camilla-cs/T1A2portfolioassignment"><strong> Portfolio T1A2</strong></a></li>
-            <p>First assignment for Coder Academy Febraury 2024 cohort using HTML and CSS that would aim to showcase personal information, skills and intersts and to demonstrate professional knowledge in the form of a portfolio.</p>
             
             <p>You can find more information about my projects on my personal <a href="https://github.com/camilla-cs" id="github"><strong>Github page</strong></a> . </p>
         </div>
