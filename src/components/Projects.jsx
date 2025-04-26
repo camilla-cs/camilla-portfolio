@@ -8,6 +8,9 @@ function Projects () {
         
         <div className="links-container">
 
+            <li><a href="https://github.com/camilla-cs/nekonooyasumi2025"><strong>Neko no Oyasumi (Hangman Game) </strong></a></li>
+            <p>Hangaman game built using Electron, framework used to build desktop application with Javascript, HTML and CSS.</p>
+
             <li><a href="https://animetrail.netlify.app/"><strong>AnimeTrail</strong></a></li>
             <p>Full stack application built with React as final assignment for Coder Academy, made for retrieveing anime recommendations based on title input.</p>
             
