@@ -8,6 +8,11 @@ function Projects () {
         
         <div className="links-container">
 
+            <li><a href="https://github.com/camilla-cs/Github-Users-Activity"><strong>Github Users Activity</strong></a></li>
+            <p>Project for which I had to create a web application that retrieves and displays data from the GitHub API. 
+                The app allows users to search for GitHub profiles and view their activity, including repositories, followers, and recent commits. 
+                It was built using React for the frontend and Node.js for the backend.</p>
+
             <li><a href="https://github.com/camilla-cs/nekonooyasumi2025"><strong>Neko no Oyasumi (Hangman Game) </strong></a></li>
             <p>Hangaman game built using Electron, framework used to build desktop application with Javascript, HTML and CSS.</p>
 
