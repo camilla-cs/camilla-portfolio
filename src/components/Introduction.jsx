@@ -29,7 +29,7 @@ function Introduction () {
            
 
             <div className="button">
-                <a href="https://github.com/camilla-cs#hi--im-camilla">check out my work!</a>
+                <a href="https://github.com/camilla-cs#hi--im-camilla" target="_blank" rel="noopener noreferrer">check out my work!</a>
             </div>
         </div>
          

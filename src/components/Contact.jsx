@@ -18,10 +18,10 @@ function Contact (){
             
             <div className="links-container">
                 <li>
-                    <a href="https://www.linkedin.com/in/camilla-de-pretto-815979234/">Linkedin</a>
+                    <a href="https://www.linkedin.com/in/camilla-de-pretto-815979234/"target="_blank" rel="noopener noreferrer">Linkedin</a>
                 </li>
                 <li>  
-                    <a href="https://github.com/camilla-cs">Github</a> 
+                    <a href="https://github.com/camilla-cs" target="_blank" rel="noopener noreferrer">Github</a> 
                 </li>
             </div>
         
