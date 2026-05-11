@@ -7,6 +7,11 @@ function Projects () {
         <h1 id="projects">Projects 🌱 </h1> 
         
         <div className="links-container">
+            <li><a href="https://github.com/camilla-cs/SpotifySkin" target="_blank" rel="noopener noreferrer"><strong>Spotify Skin</strong></a></li>
+            <p>Project that retrieves and displays data by using Spicetify API to talk to the Spotify desktop app and Rainmeter to create a custom skin for the desktop.
+                The app allows users to have spotify songs on their own desktop and control playback. 
+                In order to use the widget and download it, the user needs to have both Spicetify installed and Rainmeter configured.</p>
+
 
             <li><a href="https://github.com/camilla-cs/Github-Users-Activity"><strong>Github Users Activity</strong></a></li>
             <p>Project for which I had to create a web application that retrieves and displays data from the GitHub API. 
